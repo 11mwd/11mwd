@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @11mwd
 - 👀 I’m interested in machine learning
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on big data personality and sport projects
 - 📫 How to reach me ...
 
 <!---
